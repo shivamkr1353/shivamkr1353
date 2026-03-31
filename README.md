@@ -1,5 +1,17 @@
 # 💫 About Me:
-Pre final year Computer Science Student at Thapar Institute of Engineering and Technology 
+I am a CSE student at Thapar Institute with over 6 years of technical education (Diploma + B.E.), focused on building scalable backend systems and production-ready web applications.
+
+I specialize in the MERN stack and Python, with hands on internship experience in Full Stack Development and Artificial Intelligence.
+
+During my internships, I worked on realworld engineering problems like writing maintainable code, collaborating in development environments, and shipping functional features.
+
+I am currently seeking Software Development Engineer (SDE) opportunities where I can contribute to high-impact products while continuing to grow as an engineer.
+
+Core Interests:
+• Backend Engineering
+• Distributed Systems
+• Cloud Applications
+• Problem Solving & DSA
 
 
 ## 🌐 Socials:
