@@ -1,17 +1,15 @@
 # 💫 About Me:
-I am a CSE student at Thapar Institute focused on building scalable backend systems and production-ready web applications.
+I build systems that sit at the intersection of AI and infrastructure: RAG pipelines, LLM-powered tools, and the full-stack apps that make them usable.
+ 
+Most recently, I built a DevOps Failure Analysis Platform that ingests CI/CD failure logs from GitHub Actions and uses a RAG pipeline (FastAPI + ChromaDB + Gemini) to retrieve similar past incidents and surface root causes, turning a manual debugging slog into a searchable, self-improving knowledge base.
+ 
+That same instinct, using retrieval and reasoning to cut through noisy, real-world data, is also what drove our team to a Top 800 finish out of 31,000+ at the Meta PyTorch OpenEnv Hackathon, where we built an agentic system for network incident triage.
+ 
+My path here:
+ → At a1 AI, I worked hands-on with RAG pipelines and vector databases (ChromaDB, FAISS), integrating the OpenAI API into internal LLM tools and automating ETL workflows that cut manual processing by 40%.
+ → At Highleap Media, I shipped production features in React and Node.js, optimized MongoDB queries for a 30% page-load improvement, and worked CI/CD pipelines via GitHub Actions in an Agile team.
 
-I specialize in the MERN stack and Python, with hands on internship experience in Full Stack Development and Artificial Intelligence.
-
-During my internships, I worked on real world engineering problems like writing maintainable code, collaborating in development environments, and shipping functional features.
-
-I am currently seeking Software Development Engineer (SDE) opportunities where I can contribute to high-impact products while continuing to grow as an engineer.
-
-Core Interests:
-• Backend Engineering
-• Distributed Systems
-• Cloud Applications
-• Problem Solving & DSA
+Currently a CS undergrad at Thapar Institute of Engineering and Technology (2027), actively looking for full-time roles in Generative AI and Full-Stack Development.
 
 
 ## 🌐 Socials:
